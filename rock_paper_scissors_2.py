@@ -21,8 +21,6 @@ print(f"Final Result: {user_win}:{computer_win}")
 
 if user_win > computer_win:
     print("Congratulations!!! You Won This Game!!!")
-elif user_win < computer_win:
-    print("You Lose!!! Computer Won This Game")
 else:
-    print("Draw!!!")
+    print("You Lose!!! Computer Won This Game")
 
